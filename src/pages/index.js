@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            irohani色は匂へど我が世誰ぞ　常ならむ　有為の奥山　今日越えて　浅き夢見じ　酔ひもせ
+            ｲﾛﾊﾆirohani色は匂へど我が世誰ぞ　常ならむ　有為の奥山　今日越えて　浅き夢見じ　酔ひもせ
           </p>
           <div>
             <a
